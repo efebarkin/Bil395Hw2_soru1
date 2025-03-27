@@ -1,3 +1,4 @@
+# Efe Barkın Köse - 181101046
 # Enhanced Calculator with Lex and Yacc
 
 This project implements a calculator that can evaluate arithmetic expressions using Lex for tokenization and Yacc for parsing. It includes support for floating-point numbers, exponentiation, and improved error reporting.
